@@ -79,7 +79,7 @@
 
 需要详细了解训练营的同学，可以扫描下方二维码，备注**训练营**
 
-![训练营咨询二维码](./qrcode.jpg)
+<div align=center><img src="./qrcode.jpg" width="40%" height="40%"></div>
 
 ## 了解更多
 
